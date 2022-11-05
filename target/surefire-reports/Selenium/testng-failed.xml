@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [Selenium]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="2" parallel="tests" name=" TT1(failed)" verbose="0">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="pkg.GridTest">
+        <methods>
+          <include name="rani"/>
+        </methods>
+      </class> <!-- pkg.GridTest -->
+    </classes>
+  </test> <!--  TT1(failed) -->
+  <test thread-count="2" parallel="tests" name=" TT2(failed)" verbose="0">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="pkg.GridTest2">
+        <methods>
+          <include name="raja"/>
+        </methods>
+      </class> <!-- pkg.GridTest2 -->
+    </classes>
+  </test> <!--  TT2(failed) -->
+</suite> <!-- Failed suite [Selenium] -->

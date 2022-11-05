@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-05T01:12:32 EDT" name="Selenium" finished-at="2022-11-05T01:12:52 EDT" duration-ms="19708">
+    <groups>
+    </groups>
+    <test started-at="2022-11-05T01:12:32 EDT" name=" TT1" finished-at="2022-11-05T01:12:52 EDT" duration-ms="19708">
+      <class name="pkg.GridTest6">
+        <test-method signature="khel()[pri:0, instance:pkg.GridTest6@2e4b8173]" started-at="2022-11-05T01:12:45 EDT" name="khel" finished-at="2022-11-05T01:12:52 EDT" duration-ms="7428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- khel -->
+      </class> <!-- pkg.GridTest6 -->
+      <class name="pkg.GridTest2">
+        <test-method signature="raja()[pri:0, instance:pkg.GridTest2@703580bf]" started-at="2022-11-05T01:12:32 EDT" name="raja" finished-at="2022-11-05T01:12:38 EDT" duration-ms="5176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- raja -->
+      </class> <!-- pkg.GridTest2 -->
+      <class name="pkg.GridTest3">
+        <test-method signature="mantri()[pri:0, instance:pkg.GridTest3@3e92efc3]" started-at="2022-11-05T01:12:38 EDT" name="mantri" finished-at="2022-11-05T01:12:44 EDT" duration-ms="6018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mantri -->
+      </class> <!-- pkg.GridTest3 -->
+      <class name="pkg.GridTest4">
+        <test-method signature="chor()[pri:0, instance:pkg.GridTest4@1622f1b]" started-at="2022-11-05T01:12:40 EDT" name="chor" finished-at="2022-11-05T01:12:45 EDT" duration-ms="4962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chor -->
+      </class> <!-- pkg.GridTest4 -->
+      <class name="pkg.GridTest5">
+        <test-method signature="sipahi()[pri:0, instance:pkg.GridTest5@72a7c7e0]" started-at="2022-11-05T01:12:44 EDT" name="sipahi" finished-at="2022-11-05T01:12:48 EDT" duration-ms="4643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sipahi -->
+      </class> <!-- pkg.GridTest5 -->
+      <class name="pkg.GridTest1">
+        <test-method signature="rani()[pri:0, instance:pkg.GridTest1@3d680b5a]" started-at="2022-11-05T01:12:32 EDT" name="rani" finished-at="2022-11-05T01:12:40 EDT" duration-ms="7289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rani -->
+      </class> <!-- pkg.GridTest1 -->
+    </test> <!--  TT1 -->
+  </suite> <!-- Selenium -->
+</testng-results>

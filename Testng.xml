@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Selenium" parallel="classes" thread-count="2">
+
+	<test name=" TT1">
+		<classes>
+			<class name="pkg.GridTest1" />
+			<class name="pkg.GridTest2" />
+			<class name="pkg.GridTest3" />
+			<class name="pkg.GridTest4" />
+			<class name="pkg.GridTest5" />
+			<class name="pkg.GridTest6" />
+		</classes>
+	</test>
+</suite>
+ 
