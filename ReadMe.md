@@ -1,11 +1,8 @@
-# This is sample project to showcase how Selenium Test cases can be run in parallel using Selenium Grid Version-4 using the contrains in Dockers in CI/CD via Jenkins [docker-selenium-grid](https://github.com/sskorol/docker-selenium-grid).
-
-
+# This is sample project to showcase how Selenium Test cases can be run in parallel using Selenium Grid Version-4 using the contrains in Dockers in CI/CD via Jenkins [docker-selenium-grid](https://github.com/SeleniumHQ/docker-selenium)
 
 
 
 <img width="711" alt="GridCapture1" src="https://user-images.githubusercontent.com/49794348/200105901-9887b8d5-ce9e-4f51-bf88-62aedc67384c.PNG">
-
 
 
 
